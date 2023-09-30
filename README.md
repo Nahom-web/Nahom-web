@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nahom Haile</h1>
-<h3 align="center">IT Analyst (Programmer) from Canada</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahom-web" alt="nahom-web" /></a> </p>
+<h1 align="left">Hi 👋, I'm Nahom Haile</h1>
+<h3 align="left">IT Analyst (Programmer) from Canada</h3>
 
 - 🔭 I’m currently working on [My Profile](https://github.com/Nahom-web/nahom-haile-profile)
 
