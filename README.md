@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My Profile](https://github.com/Nahom-web/nahom-haile-profile)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** and **React.js**
 
 - 💬 Ask me about **.NET, Python**
 
